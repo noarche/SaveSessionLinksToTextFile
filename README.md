@@ -10,4 +10,4 @@ Exports as links.txt by default but ask for user input.
 Run script with tampermonkey or greasemonkey
 
 
-[![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche)](https://github.com/noarche/github-readme-stats)
+![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche&show_icons=true&theme=transparent)
